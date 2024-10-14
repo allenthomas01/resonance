@@ -1,1 +1,2 @@
 # resonance
+As part of our academic main project ( _which won the ' Best B.Tech Project,2024 ' award from our CSE department_) we made a Python-based application to detect the user's emotions and suggests a list of Carnatic ragas to uplift their mood. Under the hood, the application works on Machine Learning algorithms. This repo contains the implementation of the CNN model, which identifies the emotion from an audio file
